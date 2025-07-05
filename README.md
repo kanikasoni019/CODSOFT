@@ -53,6 +53,31 @@ In this task, I developed a simple content-based movie recommendation system usi
 👉 [Watch the demo on Google Drive](https://drive.google.com/file/d/1yzm2fZRr5GupFRe0PX6Vk9HLN-IRBuAl/view?usp=sharing)
 
 
+TASK 4
+Image Captioning AI 🖼️
+
+In this task, I developed an Image Captioning AI system that combines Computer Vision (CV) and Natural Language Processing (NLP) to automatically generate meaningful captions for images.
+
+✅ Computer Vision — Extracted image features using pre-trained CNN (ResNet)
+
+✅ NLP — Generated captions with a Transformer decoder (BLIP)
+
+✅ Transfer Learning — Applied pre-trained models effectively
+
+✅ PyTorch + Transformers — Built using powerful AI libraries
+
+✅ Image Processing — Resized, normalized, and prepared image data
+
+📂 Python File
+
+[Image Captioning AI (image_captioning.py)](image_captioning.py)
+
+🎥 Demo Video
+
+👉 [Watch the demo on Google Drive](https://drive.google.com/file/d/1WybT9nzN_ibwrgeo1f7n9sINQpVvJMly/view?usp=sharing)
+
+
+
 
 
 
